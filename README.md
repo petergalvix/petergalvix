@@ -1,42 +1,81 @@
-# Hello, I'm Peter Galvix 👋
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+  Welcome to Peter Galvix's GitHub
+  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+</h1>
 
-> “The network is not just around us… it flows *through* us.”
+<br>
 
-Welcome to my digital space. Here, I explore technology, and the boundaries between reality and the digital world.
+<p align="center">
+🌐 Hello. I'm <b>Peter Galvix</b>.<br>
+A mind connected to machines, music and networks.<br>
+I create, experiment and learn inside the Wired.<br>
+</p>
 
----
+<p align="center">
+My personal space exists here →
+<a href="https://petergalvix.neocities.org" target="_blank">
+petergalvix.neocities.org
+</a>
+</p>
 
-## About Me
-- 💻 Passionate about computer science, cybernetics, and hacking culture  
-- 🎧 DJ/Producer; experimenting with electronic music
-- 🌌 Exploring networks, decentralized systems, and cyberpunk aesthetics  
-- 🧠 Interested in the intersection between mind and machine  
+<br>
+<h1></h1>
+<br>
 
----
+<div align="center">
+  <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%">
+</div>
 
-## My Projects 
-- [**Personal Website**](https://petergalvix.neocities.org)
+<br>
 
----
+<div align="center">
+  <kbd>
+    <br>
+    &nbsp;&nbsp; ■ Technology ■ Music ■ Networks ■ Consciousness ■ &nbsp;&nbsp;
+    <br><br>
+  </kbd>
+</div>
 
-## Skills & Tools
-- **Programming:** Python, JavaScript, Bash, Rust, Assembly  
-- **Platforms:** Linux (main), Windows (for DJing and other things)  
-- **Tools:** VS Code, Ableton, Rekordbox  
-- **Concepts:** Networks, Hacking, Cybersecurity, Neuroscience, Music Production  
+<br>
 
----
+<p align="center">
+▮ I don't follow a single path.  
+If something resonates with my curiosity, I explore it. ▮
+</p>
 
-## GitHub Stats
+<br>
 
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petergalvix&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petergalvix&layout=compact&theme=dark)
+<p align="center">
+🎧 DJ experimentation • 💻 Linux systems • 🌌 Cyberpunk aesthetics  
+</p>
 
----
+<br>
 
-## Connect with Me
-- 📫 Email: [petergalvix@tutamail.com](mailto:petergalvix@tutamail.com)  
-- 🌐 Website: [petergalvix.neocities.org](https://petergalvix.neocities.org)  
-- 📸 Instagram: [@petergalvix](https://instagram.com/petergalvix)  
+<div align="center">
+  <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+</div>
 
----
+<br>
+
+<p align="center">
+■ IN THE PROVINCE OF THE MIND, ANYTHING IS POSSIBLE ■
+</p>
+
+<br>
+
+<p align="center">
+Connect with me:
+<br>
+<a href="https://github.com/petergalvix" target="_blank">GitHub</a> ·
+<a href="https://instagram.com/petergalvix" target="_blank">Instagram</a>
+</p>
+
+<br>
+
+<p align="center">
+<sub>
+Connection established.<br>
+The Wired is listening.
+</sub>
+</p>
