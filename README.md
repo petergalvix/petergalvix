@@ -35,8 +35,8 @@
 <br>
 
 <p align="center">
-  My work is about **processes**, not just outputs.<br>
-  Code flows. Sound evolves. Systems synchronize.
+  My work is about processes, not just results.<br>
+  Systems evolve. Sound transforms. Meaning emerges.
 </p>
 
 <br>
@@ -48,8 +48,8 @@
 <br>
 
 <p align="center">
-  I don’t chase titles.<br>
-  I chase **understanding**.
+  I don’t chase labels.<br>
+  I follow signals.
 </p>
 
 <br>
@@ -59,10 +59,11 @@
 <br>
 
 <p align="center">
-  Find me in the network:
+  my public node:
   <br>
-  <a href="https://github.com/petergalvix" target="_blank">GitHub</a> ·
-  <a href="https://instagram.com/petergalvix" target="_blank">Instagram</a>
+  <a href="https://petergalvix.neocities.org" target="_blank">
+    petergalvix.neocities.org
+  </a>
 </p>
 
 <br>
@@ -70,6 +71,6 @@
 <p align="center">
   <sub>
     connection established<br>
-    systems listening
+    system idle, listening
   </sub>
 </p>
