@@ -1,76 +1,46 @@
-<h1 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="5%">
+<h2 align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="4%">
   peter galvix
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="5%">
-</h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="4%">
+</h2>
+
+<p align="center"><i>systems • sound • networks • curiosity</i></p>
 
 <p align="center">
-  <i>systems • sound • networks • curiosity</i>
-</p>
-
-<br>
-
-<p align="center">
-  Hello.<br>
-  I explore technology as a language —<br>
+  Hello. I explore technology as a language —<br>
   in code, in sound, in connections.
 </p>
 
-<br>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTliaHk0cjdveWZzb2pqZHV3bWlsempqcmx2NGllMDdheThya2l0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fsoCk5kgOcYMM/giphy.gif" width="45%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTliaHk0cjdveWZzb2pqZHV3bWlsempqcmx2NGllMDdheThya2l0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fsoCk5kgOcYMM/giphy.gif" width="42%">
 </div>
 
-<br>
-
 <div align="center">
-  <kbd>
-    <br>
-    &nbsp;&nbsp; Linux · DJing · Electronic Music · Networks · Cyberculture &nbsp;&nbsp;
-    <br><br>
-  </kbd>
+  <kbd>&nbsp; Linux · DJing · Electronic Music · Networks · Cyberculture &nbsp;</kbd>
 </div>
-
-<br>
 
 <p align="center">
-  My work is about processes, not just results.<br>
-  Systems evolve. Sound transforms. Meaning emerges.
+  Processes over results.<br>
+  Systems evolve. Sound transforms.
 </p>
 
-<br>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTliaHk0cjdveWZzb2pqZHV3bWlsempqcmx2NGllMDdheThya2l0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HXLNH9Z01TembuEKPi/giphy.gif" width="45%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTliaHk0cjdveWZzb2pqZHV3bWlsempqcmx2NGllMDdheThya2l0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HXLNH9Z01TembuEKPi/giphy.gif" width="42%">
 </div>
-
-<br>
 
 <p align="center">
   I don’t chase labels.<br>
   I follow signals.
 </p>
 
-<br>
-
-<hr width="35%">
-
-<br>
+<hr width="30%">
 
 <p align="center">
-  my public node:
-  <br>
   <a href="https://petergalvix.neocities.org" target="_blank">
     petergalvix.neocities.org
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <sub>
-    connection established<br>
-    system idle, listening
-  </sub>
+  <sub>connection established · system listening</sub>
 </p>
