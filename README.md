@@ -1,25 +1,25 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="4%">
-  Peter Galvix
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="4%">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="5%">
+  peter galvix
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="5%">
 </h1>
 
 <p align="center">
-  <i>digital presence · sound · systems</i>
+  <i>systems • sound • networks • curiosity</i>
 </p>
 
 <br>
 
 <p align="center">
   Hello.<br>
-  I work with machines, sound and ideas.<br>
-  Sometimes separately. Sometimes together.
+  I explore technology as a language —<br>
+  in code, in sound, in connections.
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="45%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTliaHk0cjdveWZzb2pqZHV3bWlsempqcmx2NGllMDdheThya2l0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fsoCk5kgOcYMM/giphy.gif" width="45%">
 </div>
 
 <br>
@@ -35,18 +35,21 @@
 <br>
 
 <p align="center">
-  I'm interested in how systems connect —<br>
-  code to hardware, sound to emotion,<br>
-  people to networks.
+  My work is about **processes**, not just outputs.<br>
+  Code flows. Sound evolves. Systems synchronize.
 </p>
 
 <br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTliaHk0cjdveWZzb2pqZHV3bWlsempqcmx2NGllMDdheThya2l0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HXLNH9Z01TembuEKPi/giphy.gif" width="45%">
+</div>
+
+<br>
+
 <p align="center">
-  This is my public space:<br>
-  <a href="https://petergalvix.neocities.org" target="_blank">
-    petergalvix.neocities.org
-  </a>
+  I don’t chase titles.<br>
+  I chase **understanding**.
 </p>
 
 <br>
@@ -56,7 +59,7 @@
 <br>
 
 <p align="center">
-  You can find me here:
+  Find me in the network:
   <br>
   <a href="https://github.com/petergalvix" target="_blank">GitHub</a> ·
   <a href="https://instagram.com/petergalvix" target="_blank">Instagram</a>
@@ -64,15 +67,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="10%">
-</div>
-
-<br>
-
 <p align="center">
   <sub>
-    status: online<br>
-    listening to the network
+    connection established<br>
+    systems listening
   </sub>
 </p>
