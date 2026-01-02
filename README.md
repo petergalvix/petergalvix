@@ -1,38 +1,45 @@
-<h1 align="center">
-  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
-  Welcome to Peter Galvix's GitHub
-  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
-</h1>
+<h2 align="center">
+  welcome, traveler
+</h2>
+
+<p align="center">
+  you have reached the github space of<br>
+  <b>Peter Galvix</b>
+</p>
 
 <br>
 
 <p align="center">
-🌐 Hello. I'm <b>Peter Galvix</b>.<br>
-A mind connected to machines, music and networks.<br>
-I create, experiment and learn inside the Wired.<br>
+  systems • sound • networks • curiosity
 </p>
+
+<br>
+<hr width="40%">
+
+<br>
 
 <p align="center">
-My personal space exists here →
-<a href="https://petergalvix.neocities.org" target="_blank">
-petergalvix.neocities.org
-</a>
+  I explore technology as a language.<br>
+  Sometimes through code.<br>
+  Sometimes through music.<br>
+  Sometimes by simply listening.
 </p>
 
 <br>
-<h1></h1>
-<br>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%">
-</div>
+<p align="center">
+  My public node exists here:<br>
+  <a href="https://petergalvix.neocities.org" target="_blank">
+    petergalvix.neocities.org
+  </a>
+</p>
 
 <br>
 
 <div align="center">
   <kbd>
     <br>
-    &nbsp;&nbsp; ■ Technology ■ Music ■ Networks ■ Consciousness ■ &nbsp;&nbsp;
+    &nbsp;&nbsp; Linux · DJing · Electronic Music · Cyberculture &nbsp;&nbsp;
     <br><br>
   </kbd>
 </div>
@@ -40,42 +47,4 @@ petergalvix.neocities.org
 <br>
 
 <p align="center">
-▮ I don't follow a single path.  
-If something resonates with my curiosity, I explore it. ▮
-</p>
-
-<br>
-
-<p align="center">
-🎧 DJ experimentation • 💻 Linux systems • 🌌 Cyberpunk aesthetics  
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
-</div>
-
-<br>
-
-<p align="center">
-■ IN THE PROVINCE OF THE MIND, ANYTHING IS POSSIBLE ■
-</p>
-
-<br>
-
-<p align="center">
-Connect with me:
-<br>
-<a href="https://github.com/petergalvix" target="_blank">GitHub</a> ·
-<a href="https://instagram.com/petergalvix" target="_blank">Instagram</a>
-</p>
-
-<br>
-
-<p align="center">
-<sub>
-Connection established.<br>
-The Wired is listening.
-</sub>
-</p>
+  I
