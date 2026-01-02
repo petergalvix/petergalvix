@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="4%">
-  peter galvix
+  Peter Galvix
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlpZWRiZzJ6OHkwejY1bmY4ZDBzaHBqbXZ5YWRoa3RpY3R6djdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="4%">
 </h2>
 
